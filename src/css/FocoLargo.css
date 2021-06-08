@@ -1,0 +1,8 @@
+.focoLargo {
+  width: 70%;
+  height: 90%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
